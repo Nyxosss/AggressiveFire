@@ -2,7 +2,7 @@
 .godot/
 .nomedia
 /android/
-**/.DS_Store
+.DS_Store
 
 # Godot-specific ignores
 .import/
